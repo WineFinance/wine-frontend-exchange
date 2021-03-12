@@ -58,7 +58,12 @@ const config: MenuEntry[] = [
         label: "Github",
         href: "https://github.com/winefinance/",
       },
+      {
+        label: "Docs",
+        href: "https://winefinanceyield.gitbook.io/winefinance/",
+      },
     ],
+
   }
 ]
 
